@@ -16,7 +16,7 @@ We met for the first time after 8 Months. 16th Feb 2021 was the best day ever :D
 
 ### My First Gift
 
-I gave mau a teddy bear. Lol it was not same as what I ordered. But she loved it anyway (lucky me!). She named her Coco.
+I gave **mau** a teddy bear. Lol it was not same as what I ordered. But she loved it anyway (lucky me!). She named her Coco.
 
 [see page]()
 
@@ -25,3 +25,16 @@ I gave mau a teddy bear. Lol it was not same as what I ordered. But she loved it
 We saw scam 1992 together remotely using google meet.
 
 [see page](https://www.sonyliv.com/shows/scam-1992-the-harshad-mehta--1700000292)
+
+### Our Poems and Certificates
+
+We wrote poems for each other. We also gave certificates to each other. Yeah we do these romantic things !!
+
+[see page]()
+
+### Our Sweet and Salty whatsapp chat
+
+We talk to each other daily !! We greet each other Good Morning and Good Nights (and kisses). 
+
+[see page]()
+
