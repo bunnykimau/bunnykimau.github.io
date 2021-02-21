@@ -4,9 +4,9 @@ This page shows the timeline of all events that happened in our realtionship. Th
 
 ### Anniversary
 
-Our anniversary wishes for every month. 31st May 2020 was a speacial day <3
+Our anniversary wishes for every month. 31st May 2020 was a special day <3
 
-[see page]("anniversary.md")
+[see page]("https://bunnykimau.github.io/anniversary.md")
 
 ### Our First Date
 
