@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Bunny and Mau
 
-You can use the [editor on GitHub](https://github.com/bunnykimau/bunnykimau.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This page shows the timeline of all events that happened in our realtionship. This page will be updated for whole life! It will always show us where were we once upon a time. What was the history of our relationship.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Anniversary
 
-### Markdown
+Our anniversary wishes for every month. 31st May 2020 was a speacial day <3
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[see page]()
 
-```markdown
-Syntax highlighted code block
+### Our First Date
 
-# Header 1
-## Header 2
-### Header 3
+We met for the first time after 8 Months. 16th Feb 2021 was the best day ever :D <3
 
-- Bulleted
-- List
+[see page]()
 
-1. Numbered
-2. List
+### My First Gift
 
-**Bold** and _Italic_ and `Code` text
+I gave mau a teddy bear. Lol it was not same as what I ordered. But she loved it anyway (lucky me!). She named her Coco.
 
-[Link](url) and ![Image](src)
-```
+[see page]()
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Our First Series
 
-### Jekyll Themes
+We saw scam 1992 together remotely using google meet.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bunnykimau/bunnykimau.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[see page](https://www.sonyliv.com/shows/scam-1992-the-harshad-mehta--1700000292)
